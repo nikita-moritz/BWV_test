@@ -1,4 +1,4 @@
-package de.gypsilon.java_1;
+package de.gypsilon.java_2;
 
 import java.util.Scanner;
 
